@@ -57,7 +57,7 @@ Data Structures • Database Management Systems (DBMS) • Agile & Kanban
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josh-0307&show_icons=true&theme=default" alt="Joshvhini's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josh-0307&show_icons=true&theme=radical" alt="Joshvhini's GitHub Stats" />
 </p>
 
 <p align="center">
