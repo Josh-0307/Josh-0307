@@ -80,15 +80,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josh-0307&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh-0307&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>💡 "Learning today, building tomorrow."</i>
 </p>
