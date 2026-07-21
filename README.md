@@ -19,7 +19,7 @@
 💻 Currently: Learning Java Full Stack Development
 📊 Exploring: Data Science, AI/ML & UI/UX Design
 🧠 Core Strengths: Python, Java, HTML, CSS, Bootstrap, jQuery, JavaScript
-🏆 Achievement: 5-Star rating on HackerRank (Python & Java)
+🏆 Achievement: 4-Star rating on HackerRank (Python & Java)
 ✉️ Reach me: joshvhini03@gmail.com
 ```
 
