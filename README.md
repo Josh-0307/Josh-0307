@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshvhini Thangadurai</h1>
+<h1 align="center">Hello!, I'm Joshvhini Thangadurai</h1>
 <h3 align="center">B.Tech IT Student | Aspiring Full Stack Developer</h3>
 
 <p align="center">
