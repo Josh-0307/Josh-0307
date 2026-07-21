@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Information Technology Student | Full Stack Developer in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Aspiring+Full+Stack+Developer;Exploring+AI%2FML+%26+Data+Science;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Aspiring+Full+Stack+Developer;Exploring+AI%2FML+%26+Data+Science;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
