@@ -73,7 +73,7 @@
 
 ### 🏆 Achievements
 
-- ⭐ **5-Star rating** on HackerRank (Python & Java)
+- ⭐ **4-Star rating** on HackerRank (Python & Java)
 - 🥇 **First Place** in Project Presentation
 - 🤖 Awarded **"Future Tech Lead"** in Robotics
 - 📜 Completed **10 certified courses** under the Learnathon initiative
